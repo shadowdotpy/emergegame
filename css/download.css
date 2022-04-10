@@ -1,0 +1,42 @@
+/*body*/
+
+body {
+    background-color: #293549;
+    height: 125vh;
+    margin-top: 80px;
+    padding: 30px;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+/*header*/
+
+
+header {
+    background-color: #3d4a5e;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 5px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 15px 25px 0 black;
+}
+
+
+header h1 a {
+    color: black;
+    text-decoration: none;
+}
+
+/*body*/
+
+body h2 {
+    text-align: center;
+}
+
+body h2 a {
+    text-decoration: underline;
+    color: black;
+}
